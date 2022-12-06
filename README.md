@@ -1,3 +1,4 @@
+![logo](https://github.com/Divyagaikwadd/Divyagaikwadd/blob/main/alvin-engler-bIhpiQA009k-unsplash%20(3).jpg)
 <h1 align="center">Hi 👋, I'm Divya Gaikwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
