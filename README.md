@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagaikwadd&label=Profile%20views&color=0e75b6&style=flat" alt="divyagaikwadd" /> </p>
 
-- 🌱 I’m currently learning **Currenty Exploring and Learning different different things.**
+- 🌱 I’m currently learning **Currently Exploring and Learning different different things.**
 
 - 📫 How to reach me **divyagaikwadd183@gmail.com**
 
