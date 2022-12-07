@@ -1,14 +1,14 @@
  <img   height="250" width="10000" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80" />
 
 <h1 align="center">Hi 👋, I'm Divya Gaikwad</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagaikwadd&label=Profile%20views&color=0e75b6&style=flat" alt="divyagaikwadd" /> </p>
 
-- 🌱 I’m currently learning **Currently Exploring and Learning different different things.**
+- 🌱 I’m  **Currently Exploring and Learning different different things.**
 
 - 📫 How to reach me **divyagaikwadd183@gmail.com**
 
