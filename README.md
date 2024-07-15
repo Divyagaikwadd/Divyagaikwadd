@@ -8,9 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagaikwadd&label=Profile%20views&color=0e75b6&style=flat" alt="divyagaikwadd" /> </p>
 
-- 🌱 I’m  **Currently Exploring and Learning different different things.**
+- 🌱 I’m  **Currently Exploring **
 
-- 📫 How to reach me **divyagaikwadd183@gmail.com**
 
 - ⚡ Fun fact **I am Moody ツ**
 
